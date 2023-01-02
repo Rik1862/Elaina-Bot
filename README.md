@@ -9,7 +9,7 @@
 
 <h1 align="center">ElainaBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Daun;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6289505165400">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:yanxiao021@gmail.com">
@@ -127,7 +127,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
+git clone https://github.com/AlyaaXd/Elaina-Bot 
 cd Elaina-MultiDevice
 npm install
 npm update

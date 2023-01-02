@@ -214,17 +214,3 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 4. If you have problem chat me in owner number
 
 ---------
-
-## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ImYanXiao)
-* [`My parents`](https://github.com/ImYanXiao)
-* [`All Friends`](https://github.com/ImYanXiao)
-* [`All Contributors`](https://github.com/ImYanXiao)
-* [`All Creator Bot`](https://github.com/ImYanXiao)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`Fokus ID`](https://github.com/Fokusdotid) 
-
-## ```Recode By ✏️```
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=70)](https://github.com/ImYanXiao)
